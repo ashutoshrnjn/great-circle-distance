@@ -1,0 +1,19 @@
+{
+  "name": "distance-calculator",
+  "version": "1.0.0",
+  "description": "A simple distance calculator program",
+  "main": "distance-calculator.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^7.0.0",
+    "chai": "^4.2.0"
+  },
+  "scripts": {
+    "test": "mocha tests/distance-calculator.test.js"
+  },
+  "author": "Ashutosh Ranjan",
+  "license": "ISC"
+}
